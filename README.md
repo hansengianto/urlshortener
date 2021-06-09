@@ -7,8 +7,5 @@
 
 # How To Run
 
-python urlshort.py
-
-or
-
-python3 urlshort.py
+- pip install pyshorteners
+- python urlshort.py
